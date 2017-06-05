@@ -1,2 +1,2 @@
 # hello-world
-New repository.
+New repository. This is sth about my self.
